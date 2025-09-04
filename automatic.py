@@ -14,8 +14,8 @@ import pandas as pd
 import openpyxl
 from datetime import datetime
 
-EMAIL_ACCOUNT = 'dariofierro2002@outlook.com'  # Reemplaza con tu correo
-EMAIL_PASSWORD = 'Dario.1949'  # Contraseña o contraseña de aplicación
+EMAIL_ACCOUNT = 'CORREOELCTRÓNICO'  # Reemplaza con tu correo
+EMAIL_PASSWORD = 'CONTRASEÑADEAPLICACIÓN'  # Contraseña o contraseña de aplicación
 IMAP_SERVER = 'imap-mail.outlook.com'
 SMTP_SERVER = 'smtp-mail.outlook.com'
 
