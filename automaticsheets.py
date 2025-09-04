@@ -16,8 +16,8 @@ from datetime import datetime
 from IPython.display import display
 
 # Configuración de email
-EMAIL_ACCOUNT = 'carlitosaburgosj1609s@hotmail.com'
-EMAIL_PASSWORD = 'cmwukclgvihgqwlk'
+EMAIL_ACCOUNT = 'CORREOELCTRÓNICODEEMAIL'
+EMAIL_PASSWORD = 'CONTRASEÑADEAPLICACIÓN'
 IMAP_SERVER = 'imap-mail.outlook.com'
 SMTP_SERVER = 'smtp-mail.outlook.com'
 
